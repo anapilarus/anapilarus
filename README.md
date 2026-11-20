@@ -36,7 +36,7 @@ Oportunidades como **consultora**, **analista de datos** o **desarrolladora de s
 
 | Proyecto | Descripción | Herramientas |
 |---|---|---|
-| [Proyecto Júpiter](ENLACE_AL_REPOSITORIO) | Proyecto final del máster en equipo: análisis integral y soluciones de datos para Pontify, una app de música ficticia tipo Spotify. Incluye EDA, base de datos relacional, KPIs, clasificación automática de géneros musicales con ML, dashboard y una propuesta de IA generativa. | Python, SQL, Power BI, ML/DL, IA generativa |
+| [Proyecto Júpiter](https://github.com/anapilarus/Proyecto-jupiter-analisis-musical) | Proyecto final del máster en equipo: análisis integral y soluciones de datos para Pontify, una app de música ficticia tipo Spotify. Incluye EDA, base de datos relacional, KPIs, clasificación automática de géneros musicales con ML, dashboard y una propuesta de IA generativa. | Python, SQL, Power BI, ML/DL, IA generativa |
 | Análisis de ventas de un centro de estética *(próximamente)* | Caso real: consolidación de 7 años de histórico de ventas procedente de distintos programas de gestión, clasificación de clientes y campañas, y modelo en Power BI para medir el crecimiento y fijar objetivos. | Excel, Power Query, Power BI |
 
 ### Contacto
