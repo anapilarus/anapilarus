@@ -40,5 +40,5 @@ Oportunidades como **consultora**, **analista de datos** o **desarrolladora de s
 | Análisis de ventas de un centro de estética *(próximamente)* | Caso real: consolidación de 7 años de histórico de ventas procedente de distintos programas de gestión, clasificación de clientes y campañas, y modelo en Power BI para medir el crecimiento y fijar objetivos. | Excel, Power Query, Power BI |
 
 ### Contacto
-
+- LinkedIn: [linkedin.com/in/anapilaruceda](https://www.linkedin.com/in/anapilaruceda)
 - Email: [ana.pilar.us@gmail.com](mailto:ana.pilar.us@gmail.com)
